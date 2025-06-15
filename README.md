@@ -1,3 +1,15 @@
+# ColabFlow: Colab Integration of AlphaFlow
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mar4mn/ColabFlow/blob/master/colab_notebooks/ColabFlow.ipynb)
+
+This is a Google Colab integration of [AlphaFlow](https://github.com/bjing2016/alphaflow),  
+based on the restructured fork by [CamelCaseCam](https://github.com/CamelCaseCam/alphaflow-but-it-works).  
+It installs AlphaFlow with OpenFold and provides a notebook for interactive sampling and visualization.
+
+> No algorithmic changes have been made — this is a packaging and usability integration for Colab.
+
+
+
 # AlphaFlow
 
 AlphaFlow is a modified version of AlphaFold, fine-tuned with a flow matching objective, designed for generative modeling of protein conformational ensembles. In particular, AlphaFlow aims to model:
